@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="IQUXAe/android_device_sony_pdx206" path="device/sony/pdx206" remote="github" revision="lineage-23.0" />
+
+  <project name="IQUXAe/android_device_sony_sm8250-common" path="device/sony/sm8250-common" remote="github" revision="lineage-23.0" />
+
+  <project name="IQUXAe/android_kernel_sony_sm8250" path="kernel/sony/sm8250" remote="github" revision="lineage-23.0" />
+
+  <project name="IQUXAe/android_hardware_sony" path="hardware/sony" remote="github" revision="lineage-23.0" />
+
+  <project name="IQUXAe/proprietary_vendor_sony_sm8250-common" path="vendor/sony/sm8250-common" remote="github" revision="lineage-23.0" />
+
+  <project name="IQUXAe/proprietary_vendor_sony_pdx206" path="vendor/sony/pdx206" remote="github" revision="lineage-23.0" />
+</manifest>
